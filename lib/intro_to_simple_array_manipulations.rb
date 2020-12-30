@@ -13,7 +13,8 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   end
   using_uniq(["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"])
   
-  
+  def using_flatten(array)
+    a
   
   
   
