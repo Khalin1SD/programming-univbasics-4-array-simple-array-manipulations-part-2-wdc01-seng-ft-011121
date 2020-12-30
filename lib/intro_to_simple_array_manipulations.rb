@@ -24,7 +24,9 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   using_delete(["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"], "Steven")
   
   def using_delete_at(array, integer)
-    
+    array.delete_at(integer)
+  end
+  using_delete_at()
   
   
   
