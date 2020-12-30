@@ -16,7 +16,7 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   def using_flatten(array)
     array.flatten 
   end
-  using_flatten([])
+  using_flatten(["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"])
   
   
   
