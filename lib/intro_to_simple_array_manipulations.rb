@@ -21,7 +21,7 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   def using_delete(array, string)
     array.delete(string)
   end
-  using_delete(["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"], )
+  using_delete(["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"], "")
   
   
   
