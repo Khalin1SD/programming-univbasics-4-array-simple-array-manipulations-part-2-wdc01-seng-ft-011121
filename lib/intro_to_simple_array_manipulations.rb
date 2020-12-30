@@ -23,6 +23,8 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   end
   using_delete(["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"], "Steven")
   
+  def using_delete_at
+  
   
   
   
