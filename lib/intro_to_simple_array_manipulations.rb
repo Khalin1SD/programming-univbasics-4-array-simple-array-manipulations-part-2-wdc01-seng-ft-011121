@@ -18,6 +18,11 @@ using_concat(["raindrops on roses", "whiskers on kittens"], ["sports cars", "fla
   end
   using_flatten(["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"])
   
+  def using_delete(array, string)
+    array.delete(string)
+  end
+  using_delete()
+  
   
   
   
